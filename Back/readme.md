@@ -1,2 +1,2 @@
 print ("hi")
-hello elyas
+hello mamad
